@@ -1,2 +1,5 @@
 world*
 logs/
+.console_history
+cache/
+*.swp
