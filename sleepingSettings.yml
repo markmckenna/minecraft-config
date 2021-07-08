@@ -1,0 +1,10 @@
+serverName: LANTopia (sleeping)
+serverPort: 25565
+bedrockPort: 19132
+maxPlayers: 20
+loginMessage: Waking server. Come back in a minute...
+serverOnlineMode: true
+webPort: 0
+webDir: plugins/dynmap/web
+startMinecraft: 1
+minecraftCommand: ./start.sh

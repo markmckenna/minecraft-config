@@ -1,5 +1,9 @@
 world*
+1_12*
+1_15*
 logs/
 .console_history
 cache/
 *.swp
+usercache.*
+sleepingServerStarter.run
