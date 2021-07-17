@@ -1,1 +1,21 @@
-portals: {}
+portals:
+  gateway_to_world:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: penumbra2000
+    location: -259.0,69.0,-2.0:-255.0,72.0,-2.0
+    world: gateway
+    destination: p:world_to_gateway
+  world_to_gateway:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: penumbra2000
+    location: 152.0,68.0,-89.0:152.0,71.0,-85.0
+    world: world
+    destination: p:gateway_to_world
